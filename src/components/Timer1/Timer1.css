@@ -1,0 +1,23 @@
+.firstTimer{
+    text-align: left;
+    /* margin-top: 75px; */
+    margin-left: 75px;
+    
+}
+
+.line1{
+    display: flex;
+    transform-style: flat;
+    background-image: url(../../assets/123.jpg) ;
+    height: 50px;
+    margin-right: 75px;
+    margin-left: 75px;
+    width: 1000px;
+    align-items: center;
+    opacity: 80%;
+    font-size: 20px;
+}  
+
+.textContent{
+    margin-left: 15px;
+}

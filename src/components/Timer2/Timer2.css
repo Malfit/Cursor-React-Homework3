@@ -1,0 +1,21 @@
+.secondTimer{
+    text-align: left;
+    margin-top: 75px;
+    margin-left: 75px;
+}
+
+.line2{
+    background-image: url(../../assets/234.jpg) ;
+    height: 50px;
+    /* width: 1000px; */
+    margin-right: 75px;
+    margin-left: 75px;
+    display: flex;
+    align-items: center;
+    opacity: 80%;
+    font-size: 20px;
+    
+}
+.textContent{
+    margin-left: 15px;
+}
