@@ -13,7 +13,7 @@
     margin-left: 75px;
     width: 1000px;
     align-items: center;
-    opacity: 80%;
+    opacity: 80% !important;
     font-size: 20px;
 }  
 
