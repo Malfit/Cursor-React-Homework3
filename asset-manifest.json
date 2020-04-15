@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Cursor-React-Homework3/static/css/main.903dc2ac.chunk.css",
+    "main.css": "/Cursor-React-Homework3/static/css/main.672a5102.chunk.css",
     "main.js": "/Cursor-React-Homework3/static/js/main.1548e070.chunk.js",
     "main.js.map": "/Cursor-React-Homework3/static/js/main.1548e070.chunk.js.map",
     "runtime-main.js": "/Cursor-React-Homework3/static/js/runtime-main.5f9f3d7a.js",
@@ -8,9 +8,9 @@
     "static/js/2.53995ccd.chunk.js": "/Cursor-React-Homework3/static/js/2.53995ccd.chunk.js",
     "static/js/2.53995ccd.chunk.js.map": "/Cursor-React-Homework3/static/js/2.53995ccd.chunk.js.map",
     "index.html": "/Cursor-React-Homework3/index.html",
-    "precache-manifest.5be4b3685bde9b14d1bf0a135d54c794.js": "/Cursor-React-Homework3/precache-manifest.5be4b3685bde9b14d1bf0a135d54c794.js",
+    "precache-manifest.e517df2e24f79a7588cfa42accf4a2a2.js": "/Cursor-React-Homework3/precache-manifest.e517df2e24f79a7588cfa42accf4a2a2.js",
     "service-worker.js": "/Cursor-React-Homework3/service-worker.js",
-    "static/css/main.903dc2ac.chunk.css.map": "/Cursor-React-Homework3/static/css/main.903dc2ac.chunk.css.map",
+    "static/css/main.672a5102.chunk.css.map": "/Cursor-React-Homework3/static/css/main.672a5102.chunk.css.map",
     "static/js/2.53995ccd.chunk.js.LICENSE.txt": "/Cursor-React-Homework3/static/js/2.53995ccd.chunk.js.LICENSE.txt",
     "static/media/Timer1.css": "/Cursor-React-Homework3/static/media/123.3e669a28.jpg",
     "static/media/Timer2.css": "/Cursor-React-Homework3/static/media/234.86fd3929.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.5f9f3d7a.js",
     "static/js/2.53995ccd.chunk.js",
-    "static/css/main.903dc2ac.chunk.css",
+    "static/css/main.672a5102.chunk.css",
     "static/js/main.1548e070.chunk.js"
   ]
 }
